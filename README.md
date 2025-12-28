@@ -19,7 +19,7 @@ Dự án sử dụng các thuật toán học máy để xây dựng mô hình p
 3. Đánh giá mô hình bằng các chỉ số:
    - Accuracy
    - Precision
-   - Recall
+   - Recal
    - F1-Score
 
 ## 📈 Kết quả
